@@ -1,4 +1,4 @@
-# flask-example
+# Flask-example
 
 A minimal web app developed with [Flask](http://flask.pocoo.org/) framework. 
 
